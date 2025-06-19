@@ -1,5 +1,5 @@
 # new line
-jingle_bells = "Jingle bells, jingle bells. \nJingle all the way"
+jingle_bells = "Jingle bells, jingle bells. Jingle all the way"
 print(jingle_bells)
 
 # new page
